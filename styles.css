@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+form label{
+	line-height:40px;
+}
+input{
+	border-radius:5px;
+}
